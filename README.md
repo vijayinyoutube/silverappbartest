@@ -20,7 +20,7 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-<img src="https://user-images.githubusercontent.com/58719230/98277509-7e1c5c80-1fbd-11eb-8223-1258e587cf09.png"> <img src="https://user-images.githubusercontent.com/58719230/98277662-9e4c1b80-1fbd-11eb-98b6-6c12c7e04b0c.png" > 
+<img src="https://user-images.githubusercontent.com/58719230/98277509-7e1c5c80-1fbd-11eb-8223-1258e587cf09.png" width="300" height="400"> <img src="https://user-images.githubusercontent.com/58719230/98277662-9e4c1b80-1fbd-11eb-98b6-6c12c7e04b0c.png" width="300" height="400"> 
 
 
 ## License
